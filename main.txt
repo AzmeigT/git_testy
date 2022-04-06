@@ -1,3 +1,9 @@
 Lubie placki
 I marmolade
 xDDD
+
+
+function add(a, b) {
+    return a + b
+}
+
