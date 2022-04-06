@@ -3,7 +3,11 @@ I marmolade
 xDDD
 
 
+
 function add(a, b) {
     return a + b
 }
 
+function multipication(int a, int b) {
+return a*b
+}
